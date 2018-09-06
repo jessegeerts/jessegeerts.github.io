@@ -1,1 +1,21 @@
 remote_theme: "mmistakes/minimal-mistakes"
+title: "Jesse Geerts"
+name: "Jesse Geerts"
+description: "Jesse Geerts's personal website."
+url: "https://jessegeerts.github.io"
+repository: "jessegeerts/jessegeerts.github.io"
+search: true
+
+twitter:
+  username: &twitter "jesse_geerts"
+
+
+author:
+  name   : &name "Jesse Geerts"
+  avatar : "/assets/images/bio-photo.jpg"
+  bio.   : "PhD student at University College London"
+  github:  "jessegeerts"
+  twitter: *twitter 
+  email:   jessegeerts@gmail.com
+
+include: ["_pages"]
