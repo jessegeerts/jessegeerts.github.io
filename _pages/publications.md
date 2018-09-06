@@ -18,4 +18,4 @@ permalink: /publications/
 
 ### Conference abstracts
 - Stachenfeld, K.L., Geerts, J.P., Botvinick, M., Gershman, S., Behrens, T. & Burgess, N. (2018). Representation learning for exploration and generalization in RL. *Society for Neuroscience*. 
-- Geerts, J.P., Chersi, F., Stachenfeld, K.L. & Burgess, N. (2018). Modelling hippocampal and striatal contributions to reward-based navigation. *iNav Symposium.* [Download Poster](/assets/images/poster.pdf)
+- Geerts, J.P., Chersi, F., Stachenfeld, K.L. & Burgess, N. (2018). Modelling hippocampal and striatal contributions to reward-based navigation. *iNav Symposium.* [Download](/assets/images/poster.pdf)
