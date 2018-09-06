@@ -4,19 +4,22 @@
       <li><strong>{{ site.data.ui-text[site.locale].follow_label }}</strong></li>
     {% endif %}
     {% if site.twitter.username %}
-      <li><a href="https://twitter.com/{{ site.twitter.username }}"><i class="fab fa-fw fa-twitter" aria-hidden="true" style="color: #000000"></i> Twitter</a></li>
+      <li><a href="https://twitter.com/{{ site.twitter.username }}"><i class="fab fa-fw fa-twitter" aria-hidden="true" style="color: #000000"></i> </a></li>
     {% endif %}
     {% if site.facebook.username %}
-      <li><a href="https://www.facebook.com/{{ site.facebook.username }}"><i class="fab fa-fw fa-facebook-square" aria-hidden="true"></i> Facebook</a></li>
+      <li><a href="https://www.facebook.com/{{ site.facebook.username }}"><i class="fab fa-fw fa-facebook-square" aria-hidden="true" style="color: #000000"></i> Facebook</a></li>
     {% endif %}
     {% if site.author.github %}
-      <li><a href="https://github.com/{{ site.author.github }}"><i class="fab fa-fw fa-github" aria-hidden="true"></i> GitHub</a></li>
+      <li><a href="https://github.com/{{ site.author.github }}"><i class="fab fa-fw fa-github" aria-hidden="true" style="color: #000000"></i> </a></li>
     {% endif %}
     {% if site.author.gitlab %}
-      <li><a href="https://gitlab.com/{{ site.author.gitlab }}"><i class="fab fa-fw fa-gitlab" aria-hidden="true"></i> Gitlab</a></li>
+      <li><a href="https://gitlab.com/{{ site.author.gitlab }}"><i class="fab fa-fw fa-gitlab" aria-hidden="true" style="color: #000000"></i> </a></li>
     {% endif %}
     {% if site.author.bitbucket %}
-      <li><a href="https://bitbucket.org/{{ site.author.bitbucket }}"><i class="fab fa-fw fa-bitbucket" aria-hidden="true"></i> Bitbucket</a></li>
+      <li><a href="https://bitbucket.org/{{ site.author.bitbucket }}"><i class="fab fa-fw fa-bitbucket" aria-hidden="true" style="color: #000000"></i> </a></li>
+    {% endif %}
+    {% if site.author.linkedin %}
+      <li><a href="{{ site.author.linkedin }}"><i class="fab fa-fw fa-linkedin-in" aria-hidden="true" style="color: #000000"></i> </a></li>
     {% endif %}
   </ul>
 </div>
@@ -24,3 +27,6 @@
 <div class="page__footer-copyright">&copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}. 
   Email: <a href="mailto:jesse.geerts.14@ucl.ac.uk">jesse.geerts.14@ucl.ac.uk</a>
 </div>
+
+
+

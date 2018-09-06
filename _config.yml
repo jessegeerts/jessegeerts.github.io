@@ -17,5 +17,6 @@ author:
   github:  "jessegeerts"
   twitter: *twitter 
   email:   jessegeerts@gmail.com
+  linkedin: https://www.linkedin.com/in/jesse-geerts-a4b923bb/
 
 include: ["_pages"]
