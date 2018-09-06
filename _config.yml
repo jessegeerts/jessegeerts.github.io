@@ -20,3 +20,9 @@ author:
   linkedin: https://www.linkedin.com/in/jesse-geerts-a4b923bb/
 
 include: ["_pages"]
+
+analytics:
+  provider: "google"
+  google:
+    tracking_id: "UA-125348807-1"
+    anonymize_ip: false # default
