@@ -5,7 +5,7 @@ permalink: /teaching/
 
 ## Teaching
 
-I am a teaching assistant for [PyStarters](https://github.com/swc-pyclub/pystarters), a Python programming course, at the [SWC](ucl.ac.uk/swc).
+I am a teaching assistant for [PyStarters](https://github.com/swc-pyclub/pystarters), a Python programming course at the [SWC](ucl.ac.uk/swc).
 
 Previous teaching experiences include:
 
