@@ -26,3 +26,11 @@ analytics:
   google:
     tracking_id: "UA-125348807-1"
     anonymize_ip: false # default
+  
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
