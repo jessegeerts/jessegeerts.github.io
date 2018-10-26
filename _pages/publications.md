@@ -12,9 +12,8 @@ permalink: /publications/
 - Stachenfeld, K.L., Geerts, J.P., Burgess, N., Behrens, T.E.J., Botvinick, M. & Gershman, S. Representation learning for exploration and generalization in RL. *Society for Neuroscience Meeting, San Diego, USA 2018*. [[Abstract]](http://www.abstractsonline.com/pp8/?utm_campaign=Membership%2FNeuroscience%202018&utm_source=hs_email&utm_medium=email&utm_content=65738887&_hsenc=p2ANqtz--rQq_RqV7hDCQ8A-xMFgwUBSpinFMufEmw3cynoeNImte-KvqD954OkRgV5ULqWOo08hFLD6P2_2kpAhYv_P9yYGvycgEHRe8IJAvmWL0ob2ems8U&_hsmi=65738887#!/4649/presentation/41523)
 - Geerts, J.P., Chersi, F., Stachenfeld, K.L. & Burgess, N. Modelling hippocampal and striatal contributions to reward-based navigation. *iNav Symposium, Mont Tremblant, CA 2018.* [[Poster]](/assets/images/poster.pdf)
 
-
 ### Preprints
-- Dimitriadis, G., Neto, J. P., Aarts, A., Alexandru, A., Ballini, M., Battaglia, F., … Kampff, A. R. (2018). Why not record from every channel with a CMOS scanning probe? *BioRxiv.* [[DOI]](https://doi.org/10.1101/275818)
+- Dimitriadis, G., Neto, J. P., ... Geerts, J. P., ... Kampff, A. R. (2018). Why not record from every channel with a CMOS scanning probe? *BioRxiv.* [[DOI]](https://doi.org/10.1101/275818)
 
 ### Journal articles
 - Phillips, M. G., Lenzi, S. C., & Geerts, J. P. (2017). Cortical predictive mechanisms of auditory response attenuation to self-generated sounds. *Journal of Neuroscience*, 37(22). [[DOI]](https://doi.org/10.1523/JNEUROSCI.0216-17.2017)
