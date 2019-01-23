@@ -1,7 +1,7 @@
 <!doctype html>
 <!--
-  Minimal Mistakes Jekyll Theme 4.13.0 by Michael Rose
-  Copyright 2013-2018 Michael Rose - mademistakes.com | @mmistakes
+  Minimal Mistakes Jekyll Theme 4.15.1 by Michael Rose
+  Copyright 2013-2019 Michael Rose - mademistakes.com | @mmistakes
   Free for personal and commercial use under the MIT license
   https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
 -->
@@ -63,7 +63,7 @@
 
 <link href="/feed.xml" type="application/atom+xml" rel="alternate" title="Jesse Geerts Feed">
 
-<!-- http://t.co/dKP3o1e -->
+<!-- https://t.co/dKP3o1e -->
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 <script>
@@ -73,7 +73,7 @@
 <!-- For all browsers -->
 <link rel="stylesheet" href="/assets/css/main.css">
 
-<!--[if lte IE 9]>
+<!--[if IE ]>
   <style>
     /* old IE unsupported flexbox fixes */
     .greedy-nav .site-title {
@@ -104,10 +104,13 @@
 <div class="notice--danger align-center" style="margin: 0;">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience.</div>
 <![endif]-->
 
-    <div class="masthead">
+    
+
+<div class="masthead">
   <div class="masthead__inner-wrap">
     <div class="masthead__menu">
       <nav id="site-nav" class="greedy-nav">
+        
         <a class="site-title" href="/">Jesse Geerts</a>
         <ul class="visible-links"><li class="masthead__menu-item">
               <a href="/" >About me</a>
@@ -118,13 +121,14 @@
             </li></ul>
         
         <button class="search__toggle" type="button">
+          <span class="visually-hidden">Toggle search</span>
           <svg class="icon" width="16" height="16" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 15.99 16">
             <path d="M15.5,13.12L13.19,10.8a1.69,1.69,0,0,0-1.28-.55l-0.06-.06A6.5,6.5,0,0,0,5.77,0,6.5,6.5,0,0,0,2.46,11.59a6.47,6.47,0,0,0,7.74.26l0.05,0.05a1.65,1.65,0,0,0,.5,1.24l2.38,2.38A1.68,1.68,0,0,0,15.5,13.12ZM6.4,2A4.41,4.41,0,1,1,2,6.4,4.43,4.43,0,0,1,6.4,2Z" transform="translate(-.01)"></path>
           </svg>
         </button>
         
         <button class="greedy-nav__toggle hidden" type="button">
-          <span class="visually-hidden">Toggle Menu</span>
+          <span class="visually-hidden">Toggle menu</span>
           <div class="navicon"></div>
         </button>
         <ul class="hidden-links hidden"></ul>
@@ -138,7 +142,7 @@
       
 
 <div id="main" role="main">
-  <article class="splash" itemscope itemtype="http://schema.org/CreativeWork">
+  <article class="splash" itemscope itemtype="https://schema.org/CreativeWork">
     <meta itemprop="headline" content="About me">
     
     
@@ -146,19 +150,23 @@
 
     <section class="page__content" itemprop="text">
       <h2 id="about-me">About me</h2>
-<p>I am a PhD student at the <a href="http://www.ucl.ac.uk/swc">Sainsbury Wellcome Centre for Neural Circuits and Behaviour</a> at University College London, supervised by <a href="https://www.ucl.ac.uk/icn/people/neil-burgess">Neil Burgess</a>. I am interested in the problem of learning in both real brains and artificial systems. For my PhD project, I study this in the context of spatial representations in hippocampus and their relationship to reinforcement learning.</p>
+<p>I am a PhD student at the <a href="http://www.ucl.ac.uk/swc">Sainsbury Wellcome Centre for Neural Circuits and Behaviour</a> at University College London, supervised by <a href="https://www.ucl.ac.uk/icn/people/neil-burgess">Neil Burgess</a>. I am interested in state representation, memory, abstraction and structured representations and study this in the context of hippocampus and its role in reinforcement learning .</p>
 
-<p>Before starting my PhD, I have done rotation projects with <a href="http://www.kampff-lab.org">Adam Kampff</a>, <a href="http://www.gatsby.ucl.ac.uk/~maneesh/">Maneesh Sahani</a> and <a href="http://www0.cs.ucl.ac.uk/staff/zhaoping.li/">Zhaoping Li</a>. Before that, I obtained undergraduate degrees in Natural Sciences and Neuroscience at the <a href="http://www.uva.nl/en/home">University of Amsterdam</a> and a master’s in Brain and Mind Sciences at UCL combined with <a href="http://www.sorbonne-universite.fr/">Sorbonne Université</a> and <a href="http://www.ens.fr/">Ecole Normale Supérieure</a> in Paris.</p>
+<p>Before starting my PhD, I obtained undergraduate degrees in Natural Sciences and Neuroscience at the <a href="http://www.uva.nl/en/home">University of Amsterdam</a> and a master’s in Brain and Mind Sciences at UCL combined with <a href="http://www.sorbonne-universite.fr/">Sorbonne Université</a> and <a href="http://www.ens.fr/">Ecole Normale Supérieure</a> in Paris.</p>
+
+<p><a href="http://localhost:4000/assets/JesseGeertsCV.pdf">CV</a></p>
 
     </section>
   </article>
 </div>
+
     </div>
 
     
       <div class="search-content">
         <div class="search-content__inner-wrap"><input type="text" id="search" class="search-input" tabindex="-1" placeholder="Enter your search term..." />
     <div id="results" class="results"></div></div>
+
       </div>
     
 
@@ -185,7 +193,7 @@
   </ul>
 </div>
 
-<div class="page__footer-copyright">&copy; 2018 Jesse Geerts. 
+<div class="page__footer-copyright">&copy; 2019 Jesse Geerts. 
   Email: <a href="mailto:jesse.geerts.14@ucl.ac.uk">jesse.geerts.14@ucl.ac.uk</a>
 </div>
 
@@ -197,7 +205,7 @@
 
     
   <script src="/assets/js/main.min.js"></script>
-  <script src="https://use.fontawesome.com/releases/v5.3.1/js/all.js"></script>
+  <script defer src="https://use.fontawesome.com/releases/v5.6.0/js/all.js" integrity="sha384-z9ZOvGHHo21RqN5De4rfJMoAxYpaVoiYhuJXPyVmSs8yn20IE3PmBM534CffwSJI" crossorigin="anonymous"></script>
 
 
 
