@@ -1,6 +1,6 @@
 <!doctype html>
 <!--
-  Minimal Mistakes Jekyll Theme 4.16.4 by Michael Rose
+  Minimal Mistakes Jekyll Theme 4.16.5 by Michael Rose
   Copyright 2013-2019 Michael Rose - mademistakes.com | @mmistakes
   Free for personal and commercial use under the MIT license
   https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
@@ -12,6 +12,8 @@
 <!-- begin _includes/seo.html --><title>Publications - Jesse Geerts</title>
 <meta name="description" content="Jesse Geerts’s personal website.">
 
+
+  <meta name="author" content="Jesse Geerts">
 
 
 <meta property="og:type" content="website">
@@ -36,6 +38,8 @@
   
 
   
+    <meta name="twitter:creator" content="@jesse_geerts">
+  
 
 
 
@@ -49,9 +53,16 @@
 
 
 
-
-
-
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    
+      "@type": "Person",
+      "name": "Jesse Geerts",
+      "url": "http://localhost:4000/"
+    
+  }
+</script>
 
 
 
@@ -119,7 +130,10 @@
     <div class="masthead__menu">
       <nav id="site-nav" class="greedy-nav">
         
-        <a class="site-title" href="/">Jesse Geerts</a>
+        <a class="site-title" href="/">
+          Jesse Geerts
+          
+        </a>
         <ul class="visible-links"><li class="masthead__menu-item">
               <a href="/" >About me</a>
             </li><li class="masthead__menu-item">
@@ -163,8 +177,9 @@
 
 <h3 id="conference-abstracts">Conference abstracts</h3>
 <ul>
-  <li>Geerts, J.P., Chersi, F., Stachenfeld, K.L. &amp; Burgess, N. Hippocampal and striatl localisation and navigation strategies. <em>HBP Neural SLAM Workshop, Paris, France</em></li>
-  <li>Geerts, J.P., Chersi, F., Stachenfeld, K.L. &amp; Burgess, N. Spatial reinforcement learning using allocentric and egocentric basis functions. <em>Cosyne Coordinate Transforms Workshop, Lisbon, Portugal</em></li>
+  <li>Geerts, J.P. Stachenfeld, K.L. &amp; Burgess, N. Probabilistic Successor Representations with Kalman Temporal Differences. <em>Conference on Cognitive Computational Neuroscienc, Berlin, Germany 2019</em> <a href="https://ccneuro.org/2019/Papers/ViewPapers.asp?PaperNum=1323">[Abstract]</a></li>
+  <li>Geerts, J.P., Chersi, F., Stachenfeld, K.L. &amp; Burgess, N. Hippocampal and striatal localisation and navigation strategies. <em>HBP Neural SLAM Workshop, Paris, France 2019</em></li>
+  <li>Geerts, J.P., Chersi, F., Stachenfeld, K.L. &amp; Burgess, N. Spatial reinforcement learning using allocentric and egocentric basis functions. <em>Cosyne Coordinate Transforms Workshop, Lisbon, Portugal 2019</em></li>
   <li>Stachenfeld, K.L., Geerts, J.P., Burgess, N., Behrens, T.E.J., Botvinick, M. &amp; Gershman, S. Representation learning for exploration and generalization in RL. <em>Society for Neuroscience Meeting, San Diego, USA 2018</em>. <a href="http://www.abstractsonline.com/pp8/?utm_campaign=Membership%2FNeuroscience%202018&amp;utm_source=hs_email&amp;utm_medium=email&amp;utm_content=65738887&amp;_hsenc=p2ANqtz--rQq_RqV7hDCQ8A-xMFgwUBSpinFMufEmw3cynoeNImte-KvqD954OkRgV5ULqWOo08hFLD6P2_2kpAhYv_P9yYGvycgEHRe8IJAvmWL0ob2ems8U&amp;_hsmi=65738887#!/4649/presentation/41523">[Abstract]</a></li>
   <li>Geerts, J.P., Chersi, F., Stachenfeld, K.L. &amp; Burgess, N. Modelling hippocampal and striatal contributions to reward-based navigation. <em>iNav Symposium, Mont Tremblant, CA 2018.</em> <a href="/assets/images/poster.pdf">[Poster]</a></li>
 </ul>
@@ -190,8 +205,13 @@
 
     
       <div class="search-content">
-        <div class="search-content__inner-wrap"><input type="search" id="search" aria-placeholder="Enter your search term..." class="search-input" tabindex="-1" placeholder="Enter your search term..." />
-    <div id="results" class="results"></div></div>
+        <div class="search-content__inner-wrap"><form class="search-content__form" onkeydown="return event.key != 'Enter';">
+    <label class="sr-only" for="search">
+      Enter your search term...
+    </label>
+    <input type="search" id="search" class="search-input" tabindex="-1" placeholder="Enter your search term..." />
+  </form>
+  <div id="results" class="results"></div></div>
 
       </div>
     
