@@ -9,7 +9,7 @@ permalink: /publications/
 [Google Scholar](https://scholar.google.co.uk/citations?user=4xusDVAAAAAJ&hl=en)
 
 ### Conference abstracts
-- Geerts, J.P. Stachenfeld, K.L. & Burgess, N. Probabilistic Successor Representations with Kalman Temporal Differences. *Conference on Cognitive Computational Neuroscienc, Berlin, Germany 2019* [[Abstract]](https://ccneuro.org/2019/Papers/ViewPapers.asp?PaperNum=1323)
+- Geerts, J.P., Stachenfeld, K.L. & Burgess, N. Probabilistic Successor Representations with Kalman Temporal Differences. *Conference on Cognitive Computational Neuroscienc, Berlin, Germany 2019* [[Abstract]](https://ccneuro.org/2019/Papers/ViewPapers.asp?PaperNum=1323)
 - Geerts, J.P., Chersi, F., Stachenfeld, K.L. & Burgess, N. Hippocampal and striatal localisation and navigation strategies. *HBP Neural SLAM Workshop, Paris, France 2019*
 - Geerts, J.P., Chersi, F., Stachenfeld, K.L. & Burgess, N. Spatial reinforcement learning using allocentric and egocentric basis functions. *Cosyne Coordinate Transforms Workshop, Lisbon, Portugal 2019* 
 - Stachenfeld, K.L., Geerts, J.P., Burgess, N., Behrens, T.E.J., Botvinick, M. & Gershman, S. Representation learning for exploration and generalization in RL. *Society for Neuroscience Meeting, San Diego, USA 2018*. [[Abstract]](http://www.abstractsonline.com/pp8/?utm_campaign=Membership%2FNeuroscience%202018&utm_source=hs_email&utm_medium=email&utm_content=65738887&_hsenc=p2ANqtz--rQq_RqV7hDCQ8A-xMFgwUBSpinFMufEmw3cynoeNImte-KvqD954OkRgV5ULqWOo08hFLD6P2_2kpAhYv_P9yYGvycgEHRe8IJAvmWL0ob2ems8U&_hsmi=65738887#!/4649/presentation/41523)
