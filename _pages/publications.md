@@ -9,7 +9,7 @@ permalink: /publications/
 [Google Scholar](https://scholar.google.co.uk/citations?user=4xusDVAAAAAJ&hl=en)
 
 ### Conference proceedings
-- Geerts, J.P., Stachenfeld, K.L. & Burgess, N. Probabilistic Successor Representations with Kalman Temporal Differences. *Conference on Cognitive Computational Neuroscienc, Berlin, Germany 2019* [[DOI]](https://doi.org/10.32470/CCN.2019.1323-0)
+- Geerts, J.P., Stachenfeld, K.L. & Burgess, N. Probabilistic Successor Representations with Kalman Temporal Differences. *Conference on Cognitive Computational Neuroscienc, Berlin, Germany 2019* [[DOI]](https://doi.org/10.32470/CCN.2019.1323-0) [[PDF]](/assets/geerts.pdf)
 
 ### Talks and posters
 - Geerts, J.P., Stachenfeld, K.L. & Burgess, N. Value, Prediction and Uncertainty in Hippocampus and Striatum. *Bernstein Centre for Computational Neuroscience Retreat, Tutzing, Germany 2019* 
