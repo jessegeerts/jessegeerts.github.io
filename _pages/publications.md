@@ -9,6 +9,8 @@ permalink: /publications/
 [Google Scholar](https://scholar.google.co.uk/citations?user=4xusDVAAAAAJ&hl=en)
 
 ### Conference proceedings
+
+- Geerts, J.P., Burgess, N. & Stachenfeld, K.L. Probabilistic Successor Features Allow for Flexible Behaviour. *International Conference on Learning Representations, BAICS Workshop Paper* [[PDF]](https://baicsworkshop.github.io/papers/BAICS_31.pdf)
 - Geerts, J.P., Stachenfeld, K.L. & Burgess, N. Probabilistic Successor Representations with Kalman Temporal Differences. *Conference on Cognitive Computational Neuroscienc, Berlin, Germany 2019* [[DOI]](https://doi.org/10.32470/CCN.2019.1323-0) [[PDF]](/assets/geerts.pdf)
 
 ### Talks and posters
