@@ -15,6 +15,7 @@ permalink: /publications/
 
 ### Talks and posters
 - (upcoming) Geerts, J.P. Learning distributed Successor Representations using Kalman Filters. *Invited talk at Gershman lab, Harvard University, 2020*
+- (upcoming) Geerts, J.P. Uncertainty and the hippocampal predictive map. *Invited talk at Mila NeuroAI meeting, Montreal, CA 2020*
 - Geerts, J.P., Stachenfeld, K.L. & Burgess, N. Probabilistic Successor Features allow for flexible behaviour. *Spotlight Presentation at ICLR, 2020*
 - Geerts, J.P., Stachenfeld, K.L. & Burgess, N. Probabilistic Successor Representations allow for flexible behaviour. *Poster at Cosyne, Denver, CO 2020*
 - Geerts, J.P. A probabilistic approach to learning Successor Representations. *Invited talk at Behrens lab, UCL / University of Oxford*
