@@ -10,5 +10,5 @@ Computational cognitive neuroscientist and AI researcher. I'm currently a Resear
 Before joining Imperial, I did my PhD in the [space & memory lab](https://www.ucl.ac.uk/icn/research/research-groups/space-memory) at the [Sainsbury Wellcome Centre at UCL](http://www.ucl.ac.uk/swc). I wrote my dissertation about how flexible Reinforcement Learning strategies can explain contextual decision making and hippocampal neural activations. Find my CV [here]({{ site.url }}/assets/JesseGeertsCV.pdf).
 
 
-If you're interested in a chat, or if you want to do a project with me, please reach out via email.
+If you're interested in a chat, or if you want to do a project with me, please reach out via email [jgeerts [at] imperial.ac.uk](mailto:jgeerts@imperial.ac.uk).
 
