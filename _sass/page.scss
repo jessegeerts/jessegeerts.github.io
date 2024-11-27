@@ -7,3 +7,20 @@
 .page-content p {
   line-height: 20px;
 }
+
+p {
+    margin-bottom: 1.5em; /* Adjust value as needed */
+}
+
+
+a {
+    color: #278061; /* Change this to your desired color */
+    text-decoration: none; /* Removes underline */
+    transition: color 0.3s ease; /* Smooth color transition */
+}
+
+a:hover {
+    color: #278061; /* Slightly darker color on hover */
+    text-decoration: none; /* Optional: underline on hover */
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2); /* Adds a subtle shadow effect */
+}
