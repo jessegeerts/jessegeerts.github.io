@@ -6,7 +6,7 @@ permalink: /about/
 
 <div style="display: flex; align-items: flex-start; gap: 20px;">
 <p markdown="1">
-Computational cognitive neuroscientist and AI researcher. I'm currently a Research Fellow at the [computational neuroscience lab](https://www.sainsburywellcome.org/web/groups/clopath-lab) at Imperial, studying learning in brains, minds and machines. My current research direction focuses on mechanistic interpretability and the generalization properties of neural network models. More generally, I am interested in how artificial and biological neural networks can achieve generalization from limited experience. 
+Computational cognitive neuroscientist and AI researcher, studying learning in brains, minds and machines. I'm currently a Research Fellow at the [computational neuroscience lab](https://www.sainsburywellcome.org/web/groups/clopath-lab) at Imperial. My research focuses on learning and memory, and I study this by comparing behavioural and neural data to computational simulations. 
 </p>
 <img src="{{ '/assets/photo-jesse.png' | relative_url }}" alt="Jesse Geerts" style="width: 150px; height: auto; border-radius: 50%;">
 </div>
