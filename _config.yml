@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Jesse Geerts
-email: jgeerts@imperial.ac.uk
+email:
 name: Jesse Geerts
 description: # this means to ignore newlines until "baseurl:"
 keywords: [cognitive neuroscience, machine learning]
